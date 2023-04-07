@@ -31,3 +31,11 @@ The Inception-ResNet v2 architecture was released by Szegedy et al. and is based
 </p>
 
 
+## Dataset
+Facemask dataset is available in Kaggle. We have Total 14 thousand face images. These images divided based on face have mask or not. For the with mask, we have 8000 thousand images and without mask we have 7000 images. 
+
+<p align="center">
+  <img src="dataset.jpg" align="center" width="300" height="200">
+</p>
+
+## Front-end
