@@ -39,3 +39,32 @@ Facemask dataset is available in Kaggle. We have Total 14 thousand face images. 
 </p>
 
 ## Front-end
+
+<p align="center">
+  <img src="1.jpg" align="center" width="500" height="300">
+</p>
+
+### Register
+<p align="center">
+  <img src="sign.jpg" align="center" width="500" height="300">
+</p>
+
+### Dashboard
+<p align="center">
+  <img src="3.jpg" align="center" width="500" height="300"><img src="4.jpg" align="center" width="500" height="300">
+</p>
+
+### Detection
+<p align="center">
+  <img src="5.jpg" align="center" width="500" height="300">
+</p>
+
+## Tools and Technologies
+1) Jupyter notebook (anaconda3) 6.4.8
+2) Visual Studio Code 1.67.2
+3) Python 3.7
+4) HTML 5
+5) CSS 4.13
+6) Flask 1.1.x
+7) YOLO
+8) Inception ResNet v2
