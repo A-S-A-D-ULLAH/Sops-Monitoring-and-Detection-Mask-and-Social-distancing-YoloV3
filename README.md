@@ -29,7 +29,12 @@ The Inception-ResNet v2 architecture was released by Szegedy et al. and is based
 <p align="center">
   <img src="Inception-Resnet-V2-Architecture.png" align="center" width="700" height="400">
 </p>
+ 
+## Model Consider
 
+<p align="center">
+  <img src="Inception-Resnet-V2-Architecture.png" align="center" width="700" height="400">
+</p>
 
 ## Dataset
 Facemask dataset is available in Kaggle. We have Total 14 thousand face images. These images divided based on face have mask or not. For the with mask, we have 8000 thousand images and without mask we have 7000 images. 
@@ -56,7 +61,7 @@ Facemask dataset is available in Kaggle. We have Total 14 thousand face images. 
 
 ### Detection
 <p align="center">
-  <img src="5.jpg" align="center" width="500" height="300">
+  <img src="5.jpg" align="center" width="500" height="300"> <img src="mask.jpg" align="center" width="500" height="300">
 </p>
 
 ## Tools and Technologies
@@ -68,3 +73,5 @@ Facemask dataset is available in Kaggle. We have Total 14 thousand face images. 
 6) Flask 1.1.x
 7) YOLO
 8) Inception ResNet v2
+
+
