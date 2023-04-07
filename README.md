@@ -9,8 +9,13 @@ This project is used in other fields of surveillance like sports, security check
 
 <img src="9.-WearMaskNet-Real-Time-Face-Mask-Detection.png" align="center" width="900" height="500">
 
-##Yolo Architecture
+
+## Yolo Architecture
 YOLO stands for You Only Look Once, this model is used for Object Detection as well as Object Tracking with the help of CNN, our research uses YOLO for calculating the social distancing with the help of Object Detection and feature extraction from the data, whereas tracking the face and people in the frame for counting the objects and keeping a record of that object in the next frame is done by Object Tracking. The minimum distance to keep in social distancing is 2 meters, the model was trained and used for object detection as well as object tracking. 
+
+<p align="center">
+  <img src="yolo.png" align="center">
+</p>
 
 
 YOLOv3 is fast and accurate in terms of mean average precision (mAP) and intersection over union (IOU) values as well. It runs significantly faster than other detection methods with comparable performance (hence the name – You only look once). Moreover, you can easily trade-off between speed and accuracy simply by changing the model’s size, without the need for model retraining.
