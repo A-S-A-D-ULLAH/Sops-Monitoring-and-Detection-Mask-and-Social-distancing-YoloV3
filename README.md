@@ -5,3 +5,5 @@ There are different ways to reduce the contact of persons with each other’s, f
 
 Social distancing is a strategy used to control the expending of covid-19. As the name suggests, social distancing implies that individuals should physically distance themselves from one another, reducing close contact, and thereby reducing the spread of this contagious disease.
 This project is used in other fields of surveillance like sports, security checking, and crowd analysis.
+
+![2](2.jpg)
