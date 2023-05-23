@@ -7,7 +7,7 @@ Social distancing is a strategy used to control the expending of covid-19. As th
 This project is used in other fields of surveillance like sports, security checking, and crowd analysis.
 
 <p align="center">
-  <img src="9.-WearMaskNet-Real-Time-Face-Mask-Detection.png" align="center" width="800" height="400">
+  <img src="/Figures/9.-WearMaskNet-Real-Time-Face-Mask-Detection.png" align="center" width="800" height="400">
 </p>
 
 ## Yolo Architecture
@@ -15,7 +15,7 @@ YOLO stands for You Only Look Once, this model is used for Object Detection as w
 
 
 <p align="center">
-  <img src="yolo.png" align="center">
+  <img src="/Figures/yolo.png" align="center">
 </p>
 
 
@@ -27,13 +27,13 @@ YOLOv3 is fast and accurate in terms of mean average precision (mAP) and interse
 The Inception-ResNet v2 architecture was released by Szegedy et al. and is based on the combination of two ideas: residual connections and the Inception architecture. Inception-ResNet-v2 is a convolutional neural network that is trained on more than a million images from the ImageNet database. The network is 164 layers deep and can classify images into 1000 object categories, such as the keyboard, mouse, pencil, and many animals. As a result, the network has learned rich feature representations for a wide range of images. The network has an image input size of 299-by-299, and the output is a list of estimated class probabilities.
 
 <p align="center">
-  <img src="Inception-Resnet-V2-Architecture.png" align="center" width="700" height="400">
+  <img src="/Figures/Inception-Resnet-V2-Architecture.png" align="center" width="700" height="400">
 </p>
  
 ## Model Consider
 
 <p align="center">
-  <img src="table.jpg" align="center" width="700" height="400">
+  <img src="/Figures/table.jpg" align="center" width="700" height="400">
 </p>
 
 
@@ -41,28 +41,28 @@ The Inception-ResNet v2 architecture was released by Szegedy et al. and is based
 Facemask dataset is available in Kaggle. We have Total 14 thousand face images. These images divided based on face have mask or not. For the with mask, we have 8000 thousand images and without mask we have 7000 images. 
 
 <p align="center">
-  <img src="dataset.jpg" align="center" width="300" height="200">
+  <img src="/Figures/dataset.jpg" align="center" width="300" height="200">
 </p>
 
 ## Front-end
 
 <p align="center">
-  <img src="1.jpg" align="center" width="500" height="300">
+  <img src="/Figures/1.jpg" align="center" width="500" height="300">
 </p>
 
 ### Register
 <p align="center">
-  <img src="sign.jpg" align="center" width="500" height="300">
+  <img src="/Figures/sign.jpg" align="center" width="500" height="300">
 </p>
 
 ### Dashboard
 <p align="center">
-  <img src="3.jpg" align="center" width="500" height="300"><img src="4.jpg" align="center" width="500" height="300">
+  <img src="/Figures/3.jpg" align="center" width="500" height="300"><img src="4.jpg" align="center" width="500" height="300">
 </p>
 
 ### Detection
 <p align="center">
-  <img src="5.jpg" align="center" width="500" height="300"> <img src="mask.jpg" align="center" width="500" height="300">
+  <img src="/Figures/5.jpg" align="center" width="500" height="300"> <img src="mask.jpg" align="center" width="500" height="300">
 </p>
 
 ## Tools and Technologies
