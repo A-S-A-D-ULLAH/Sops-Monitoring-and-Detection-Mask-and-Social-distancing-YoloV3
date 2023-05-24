@@ -57,12 +57,12 @@ Facemask dataset is available in Kaggle. We have Total 14 thousand face images. 
 
 ### Dashboard
 <p align="center">
-  <img src="/Figures/3.jpg" align="center" width="500" height="300"><img src="4.jpg" align="center" width="500" height="300">
+  <img src="/Figures/3.jpg" align="center" width="500" height="300"><img src="/Figures/4.jpg" align="center" width="500" height="300">
 </p>
 
 ### Detection
 <p align="center">
-  <img src="/Figures/5.jpg" align="center" width="500" height="300"> <img src="mask.jpg" align="center" width="500" height="300">
+  <img src="/Figures/5.jpg" align="center" width="500" height="300"> <img src="/Figures/mask.jpg" align="center" width="500" height="300">
 </p>
 
 ## Tools and Technologies
